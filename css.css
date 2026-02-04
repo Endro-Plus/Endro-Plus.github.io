@@ -1,10 +1,11 @@
 body{
     background: #3c0404;
+    color:white;
 }
 div{
     background: #9d6400;
 }
 p{
     text-align: center;
-    color:red;
+    color:rgb(255, 227, 227);
 }
