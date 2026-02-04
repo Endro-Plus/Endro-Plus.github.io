@@ -27,3 +27,6 @@ p{
 .darkp{
     color:black;
 }
+a{
+    font-weight: bold;
+}
