@@ -15,6 +15,9 @@ p{
     text-align: center;
     color:rgb(255, 227, 227);
 }
+a{
+    font-weight: bold;
+}
 #header {
     color:green;
 }
@@ -27,6 +30,6 @@ p{
 .darkp{
     color:black;
 }
-a{
-    font-weight: bold;
+.projects{
+    background: cyan;
 }
