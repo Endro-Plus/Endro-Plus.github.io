@@ -20,5 +20,7 @@ p{
 }
 .about{
     border-style: outset;
-    border:black 2px 2px 2px 2px;
+    border-color:black;
+    background: rgb(204, 255, 0);
+    color: black;
 }
