@@ -1,11 +1,23 @@
 body{
     background: #3c0404;
     color:white;
+    text-align: center;
+}
+h1{
+    color:white;
+    text-align: center;
 }
 div{
     background: #9d6400;
+    color:black;
 }
 p{
     text-align: center;
     color:rgb(255, 227, 227);
+}
+#header {
+    color:green;
+}
+.about{
+    border:black 2px 2px 2px 2px;
 }
