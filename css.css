@@ -18,6 +18,11 @@ p{
 a{
     font-weight: bold;
 }
+ul{
+    text-align: left;
+    margin-left: 45%;
+}
+
 #header {
     color:green;
 }
